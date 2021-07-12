@@ -1,3 +1,4 @@
+<img src="https://github.com/Whireless/Whireless/blob/main/tenor.gif" width=250px height=250px>
 
     const whireless = function (Alexander, human) {
 
@@ -23,7 +24,7 @@
 	 funFact: 'They are';
     };
 	whireless();
-
+		
 
 <!---
 Whireless/Whireless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
