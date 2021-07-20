@@ -2,8 +2,8 @@
 
     const whireless = function (Alexander, human) {
 
-     frontendSkills: ['HTML', 'CSS', 'JavaScript = lowLVL'];
-	 backendSkills: none;
+     hardSkills: ['HTML', 'CSS', 'JavaScript = lowLVL'];
+	 backendSkills: undefined;
 	 interested: ['Blockchain', 'Linux'];
 	 languages: {
 	            English = 'I speak, but don't know the documentation yet';  👀
