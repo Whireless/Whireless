@@ -1,8 +1,8 @@
 <img src="https://github.com/Whireless/Whireless/blob/main/tenor.gif" width=250px height=250px>
 
-    const whireless = function (Alexander, human) {
+    let whireless = function (Alexander, human) {
 
-     hardSkills: ['Git', 'Gulp', 'HTML', 'CSS', 'JavaScript = lowLVL'];
+     hardSkills: ['Git', 'Gulp', 'BEM', 'HTML', 'CSS', 'JavaScript'];
 	 backendSkills: undefined;
 	 interested: ['Blockchain', 'Linux'];
 	 languages: {
@@ -20,7 +20,7 @@
 			 }
 			
 	 softSkills: ['communicable', 'love of minimalism', 'responsible', 'i solve problems as they arise', 'critical thinking', 'i love cookies with milk'];
-	 meLocation: ['Krasnodar, Russia', 'Moscow, Russia'];
+	 meLocation: ['Krasnodar, Russia' && 'Moscow, Russia'];
 	 funFact: 'They are';
     };
 	whireless();
