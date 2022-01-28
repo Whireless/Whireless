@@ -1,28 +1,24 @@
 <img src="https://github.com/Whireless/Whireless/blob/main/tenor.gif" width=250px height=250px>
 
-    let whireless = function (Alexander, human) {
-
-     hardSkills: ['Git', 'Gulp', 'BEM', 'HTML', 'CSS', 'JavaScript'];
-	 backendSkills: undefined;
-	 interested: ['Blockchain', 'Linux'];
-	 languages: {
-	            English = 'I speak, but don't know the documentation yet';  👀
-	            Russian = native;
-		    ??????? = what the language?!;
-			};
+    const whireless = function (Alexander, human, iWorkInYourTeam, yourTeam) {
+       hardSkills: ['JavaScript', 'Git', 'Gulp', 'BEM', 'HTML', 'CSS (SCSS)'];
+	   interested: ['Blockchain', 'Linux'];
+	   languages: {
+	     English: 'I speak, but don't know the documentation yet',  👀
+	     Russian: native,
+       };
 				 
-		    let iWorkInYourTeam;
-		    let yourTeam;
-			 if (iWorkInYourTeam) {
-			     return yourTeam = productivity 100% && cheerful atmosphere = 100%;
-			 } else {
-			     all command parameters =- 100%
-			 }
+	   if (iWorkInYourTeam) {
+	     return yourTeam productivity && cheerful atmosphere 100%;
+	   } else {
+	     return yourTeam all parameters =- 100%;
+	   }
 			
-	 softSkills: ['communicable', 'love of minimalism', 'responsible', 'i solve problems as they arise', 'critical thinking', 'i love cookies with milk'];
-	 meLocation: ['Krasnodar, Russia' && 'Moscow, Russia'];
-	 funFact: 'They are';
+	   softSkills: ['communicable', 'love of minimalism', 'responsible', 'i solve problems as they arise', 'critical thinking', 'i love cookies with milk'];
+	   meLocation: ['Krasnodar, Russia' && 'Moscow, Russia'];
+	   funFact: 'They are';
     };
+    
 	whireless();
 		
 
@@ -31,16 +27,6 @@ Whireless/Whireless is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes. 👋 👀 🌱 💞️ 📫 🐳
 
 I want to cooperate with an interesting company, develop advanced Internet products for people
-
-✔ Организованность
-✔ Умение работать в команде
-✔ Пунктуальность
-✔ Креативность
-✔ Гибкость
-✔ Дружелюбность
-✔ Лидерские качества
-✔ Умение решать сложные задачи 
-
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "Swift", "PHP"],
