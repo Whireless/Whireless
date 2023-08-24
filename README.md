@@ -2,7 +2,7 @@
 
 
     const whireless = function (Alexander, human, iWorkInYourTeam, yourTeam) {
-       hardSkills: ['JavaScript', 'Git', 'Gulp', 'BEM', 'HTML', 'CSS (SCSS)'];
+       hardSkills: ['JavaScript', 'Git', 'Gulp', 'BEM', 'HTML', 'CSS (SCSS)', Nginx];
 	   interested: ['Blockchain', 'Linux'];
 	   languages: {
 	     English: 'I speak, but don't know the documentation yet',  👀
