@@ -1,8 +1,8 @@
 <img src="https://github.com/Whireless/Whireless/blob/main/tenor.gif" width=250px height=250px> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whireless&layout=compact&theme=merko)](https://github.com/Whireless/github-readme-stats)
 
 
-    const whireless = function (Alexander, human, iWorkInYourTeam, yourTeam) {
-       hardSkills: ['JavaScript', 'Git', 'Gulp', 'BEM', 'HTML', 'CSS (SCSS)', Nginx];
+    const whireless = (Alexander, human, iWorkInYourTeam, yourTeam) => {
+       hardSkills: ['JavaScript', 'Git', Vite, 'Gulp', 'BEM', 'HTML', 'CSS (SCSS)', Nginx];
 	   interested: ['Blockchain', 'Linux'];
 	   languages: {
 	     English: 'I speak, but don't know the documentation yet',  👀
