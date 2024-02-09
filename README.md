@@ -1,4 +1,5 @@
-<img src="https://github.com/Whireless/Whireless/blob/main/tenor.gif" width=250px height=250px> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whireless&layout=compact&theme=merko)](https://github.com/Whireless/github-readme-stats)
+<!-- <img src="https://github.com/Whireless/Whireless/blob/main/tenor.gif" width=250px height=250px> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whireless&layout=compact&theme=merko)](https://github.com/Whireless/github-readme-stats)
 
 
     const whireless = (iWorkInYourTeam) => {
