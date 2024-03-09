@@ -3,16 +3,16 @@
 
 
     const whireless = (iWorkInYourTeam) => {
-       hardSkills: ['Vue 3', 'JavaScript', 'Git', Vite, 'Gulp', 'BEM', 'HTML', 'CSS (SCSS)','Nginx'];
-	   interested: ['Blockchain', 'Linux'];
-	   languages: {
+       const hardSkills = ['Vue 3', 'JavaScript', 'Git', Vite, 'Gulp', 'BEM', 'HTML', 'CSS (SCSS)','Nginx'];
+	   const interested = ['Blockchain', 'Linux'];
+	   const languages = {
 	     English: 'I speak, but don't know the documentation yet',  👀
 	     Russian: native,
        };
 
-       softSkills: ['communicable', 'love of minimalism', 'responsible', 'i solve problems as they arise', 'critical thinking', 'i love cookies with milk'];
-	   meLocation: ['Krasnodar, Russia', 'Moscow, Russia'];
-	   funFact: 'They are';
+       const softSkills = ['communicable', 'love of minimalism', 'responsible', 'i solve problems as they arise', 'critical thinking', 'i love cookies with milk'];
+	   const meLocation = ['Krasnodar, Russia', 'Moscow, Russia'];
+	   const funFact = 'They are';
        
 	  const youCompany = {
 	  	productivity: '',
