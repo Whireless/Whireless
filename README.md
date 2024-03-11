@@ -18,17 +18,17 @@
 	   const funFact = 'They are';
        
 	  const youCompany = {
-	  	productivity: '',
-    	cheerfulAtmosphere: '',
+	  	productivity: 0,
+    	cheerfulAtmosphere: 0,
 	     };
       
 	   if (iWorkInYourTeam) {
-	      youCompany.productivity = '100%';
-          youCompany.cheerfulAtmosphere = '100%';
+	      youCompany.productivity += 100;
+          youCompany.cheerfulAtmosphere += 100;
 	      return;
 	   } else {
-	      youCompany.productivity = '-100%';
-          youCompany.cheerfulAtmosphere = '-100%';
+	      youCompany.productivity -= 100;
+          youCompany.cheerfulAtmosphere -= 100;
 	      return;
 	   }
     };
