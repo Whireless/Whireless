@@ -11,7 +11,10 @@
        };
 
        const softSkills = ['communicable', 'love of minimalism', 'responsible', 'i solve problems as they arise', 'critical thinking', 'i love cookies with milk'];
-	   const meLocation = ['Krasnodar, Russia', 'Moscow, Russia'];
+	   const meLocation = {
+    	country: 'Russia',
+      	citys: ['Rostov-on-Don', 'Krasnodar', 'St. Petersburg', 'Moscow'],
+	   },
 	   const funFact = 'They are';
        
 	  const youCompany = {
