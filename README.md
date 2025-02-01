@@ -23,12 +23,12 @@
 	     };
       
 	   if (iWorkInYourTeam) {
-	      youCompany.productivity += 100;
-          youCompany.cheerfulAtmosphere += 100;
+	      youCompany.productivity = 100;
+          youCompany.cheerfulAtmosphere = 100;
 	      return;
 	   } else {
-	      youCompany.productivity -= 100;
-          youCompany.cheerfulAtmosphere -= 100;
+	      youCompany.productivity = 0;
+          youCompany.cheerfulAtmosphere = 0;
 	      return;
 	   }
     };
